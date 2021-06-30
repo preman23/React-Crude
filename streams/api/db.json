@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "preamn",
+      "description": "shrestha",
+      "id": 1
+    },
+    {
+      "title": "preamn",
+      "description": "shrestha",
+      "id": 2
+    },
+    {
+      "title": "preamn",
+      "description": "shrestha",
+      "id": 3
+    },
+    {
+      "title": "i create this stream",
+      "description": "this was made by me",
+      "id": 4
+    },
+    {
+      "title": "i m edited",
+      "description": "same here",
+      "id": 5
+    },
+    {
+      "title": "o",
+      "description": "o",
+      "id": 6
+    }
+  ]
+}
